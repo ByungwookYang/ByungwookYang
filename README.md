@@ -1,7 +1,4 @@
-## Hi there 👋
-
-# 양병욱
-
+# Hi, I'm Byungwook. 👋
 
 
 ## :e-mail: Contact
