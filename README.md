@@ -1,4 +1,4 @@
-# Hi, I'm Byungwook. 👋
+# Hi, I'm Byungwook 👋
 
 
 ## :e-mail: Contact
