@@ -1,4 +1,5 @@
-# Hi, I'm Byungwook 👋
+# 양병욱
+
 
 
 ## :e-mail: Contact
@@ -43,6 +44,10 @@
 **5. :baby_chick:  MLOps를 활용한 전자상거래 관리자용 실시간 대시보드 구축**
 > :link: [프로젝트 설명]([4 MLOps Presentation.pdf](https://github.com/user-attachments/files/18977447/4.MLOps.Presentation.pdf))
 
+**6. :factory: 다양한 RAG를 통한 분류모델개발(논문 진행중)**
+> :link: [프로젝트 설명](https://github.com/ByungwookYang/RAG_paper_preject)
+
+
 
 
 ##  :hammer:Skills
@@ -61,6 +66,5 @@
 ## :star2: Experience
 - `2022.06 - 2022.08` 데이터 청년 캠퍼스 3th 
 - `2023.09 - 2024.08` 고려대학교 통계연구소 통계부간사
-
 
 
