@@ -39,14 +39,13 @@
 **3. :factory: LG전자 불량관리 예측모형 고도화**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/LG-Amers-5th)
 
-**4. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
-
-**5. :baby_chick:  MLOps를 활용한 전자상거래 관리자용 실시간 대시보드 구축**
+**4. :baby_chick:  MLOps를 활용한 전자상거래 관리자용 실시간 대시보드 구축**
 >  :link: [프로젝트 설명](https://github.com/user-attachments/files/18977447/4.MLOps.Presentation.pdf)
 
-**6. :factory: 다양한 RAG를 통한 분류모델개발(논문 진행중)**
+**5. :factory: 다양한 RAG를 통한 분류모델개발(논문 진행중)**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/RAG_paper_preject)
 
+**6. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
 
 
 
