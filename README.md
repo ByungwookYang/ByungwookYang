@@ -42,12 +42,9 @@
 **4. :baby_chick:  MLOps를 활용한 전자상거래 관리자용 실시간 대시보드 구축**
 >  :link: [프로젝트 설명](https://github.com/user-attachments/files/18977447/4.MLOps.Presentation.pdf)
 
-**5. :factory: 다양한 RAG를 통한 분류모델개발(논문 진행중)**
-> :link: [프로젝트 설명](https://github.com/ByungwookYang/RAG_paper_preject)
+**5. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
 
-**6. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
-
-**7. :book:  임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류**
+**6. :book:  임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류**
 >  :link: [프로젝트 설명](https://github.com/ByungwookYang/Embedding-Models-and-Advanced-RAG-for-Korean-Text-Classification)
 
 
