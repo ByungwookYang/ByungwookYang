@@ -48,7 +48,7 @@
 **6. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
 
 **7. :book:  임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류**
->  :link: [프로젝트 설명]([https://github.com/user-attachments/files/18977447/4.MLOps.Presentation.pdf](https://github.com/ByungwookYang/Embedding-Models-and-Advanced-RAG-for-Korean-Text-Classification))
+>  :link: [프로젝트 설명](https://github.com/ByungwookYang/Embedding-Models-and-Advanced-RAG-for-Korean-Text-Classification)
 
 
 ##  :hammer:Skills
