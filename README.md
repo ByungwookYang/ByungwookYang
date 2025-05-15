@@ -50,7 +50,7 @@
 **7. :book:  임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류**
 >  :link: [프로젝트 설명](https://github.com/ByungwookYang/Embedding-Models-and-Advanced-RAG-for-Korean-Text-Classification)
 
-**8. :speaking_head: 환경 공모전**
+**8. 🌱 환경 공모전**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/chatbot_final)
 
 
