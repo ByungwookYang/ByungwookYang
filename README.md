@@ -30,7 +30,7 @@
 
 ## :computer:Project
 
-**1. :earth_asia: 대학의 SDGs 이행현황 분석**
+**1. 🎓 대학의 SDGs 이행현황 분석**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/Manufacture-contest)
 
 **2. :factory: LG전자 불량관리 예측모형 고도화**
