@@ -30,7 +30,7 @@
 
 ## :computer:Project
 
-**1. :earth_asia: LLM을 통한 제조공정 관리자 플랫폼 개발**
+**1. :earth_asia: MLOps와 LLM 기반 실시간 제조 공정 모니터링 및 불량 관리 플랫폼 개발**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/Manufacture-contest)
 
 **2. :speaking_head: RAG 시스템을 이용한 맞춤형 상담 챗봇 개발**
