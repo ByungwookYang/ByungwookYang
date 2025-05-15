@@ -30,22 +30,29 @@
 
 ## :computer:Project
 
-**1. :earth_asia: MLOps와 LLM 기반 실시간 제조 공정 모니터링 및 불량 관리 플랫폼 개발**
+**1. :earth_asia: 대학의 SDGs 이행현황 분석**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/Manufacture-contest)
 
-**2. :speaking_head: RAG 시스템을 이용한 맞춤형 암 상담 챗봇 개발**
-> :link: [프로젝트 설명](https://github.com/ByungwookYang/chatbot_final)
-
-**3. :factory: LG전자 불량관리 예측모형 고도화**
+**2. :factory: LG전자 불량관리 예측모형 고도화**
 > :link: [프로젝트 설명](https://github.com/ByungwookYang/LG-Amers-5th)
 
-**4. :baby_chick:  MLOps를 활용한 전자상거래 관리자용 실시간 대시보드 구축**
+**3. :earth_asia: MLOps와 LLM 기반 실시간 제조 공정 모니터링 및 불량 관리 플랫폼 개발**
+> :link: [프로젝트 설명](https://github.com/ByungwookYang/Manufacture-contest)
+
+**4. :speaking_head: RAG 시스템을 이용한 맞춤형 암 상담 챗봇 개발**
+> :link: [프로젝트 설명](https://github.com/ByungwookYang/chatbot_final)
+
+**5. :baby_chick:  MLOps를 활용한 전자상거래 관리자용 실시간 대시보드 구축**
 >  :link: [프로젝트 설명](https://github.com/user-attachments/files/18977447/4.MLOps.Presentation.pdf)
 
-**5. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
+**6. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
 
-**6. :book:  임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류**
+**7. :book:  임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류**
 >  :link: [프로젝트 설명](https://github.com/ByungwookYang/Embedding-Models-and-Advanced-RAG-for-Korean-Text-Classification)
+
+**8. :speaking_head: 환경 공모전**
+> :link: [프로젝트 설명](https://github.com/ByungwookYang/chatbot_final)
+
 
 
 ##  :hammer:Skills
