@@ -48,7 +48,7 @@
 **6. :large_blue_diamond: 삼성전자 VD사업부 propensity model 고도화**
 >  :link: [프로젝트 설명](https://github.com/ByungwookYang/Samsung)
 
-**7. :book:  임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류**
+**7. :book:  임베딩 모델 및 Advanced RAG 기법을 활용한 한국어 텍스트 분류(On writing)**
 >  :link: [프로젝트 설명](https://github.com/ByungwookYang/Embedding-Models-and-Advanced-RAG-for-Korean-Text-Classification)
 
 **8. 🌱 위험요소 조기 감지를 위한 화학사고 키워드 분석**
