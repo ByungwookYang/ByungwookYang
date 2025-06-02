@@ -7,7 +7,7 @@
 - quddnr135@korea.ac.kr
 
 ##  :mortar_board: Education
-- `2017.03 - 2023.08` B.S in Statistics, Hankuk University of Foreign Study
+- `2017.03 - 2023.08` B.S in Statistics, Hankuk University of Foreign Studies
 - `2023.08 - 2025.08` M.S in Statistics, Korea University
 
 ## :man_office_worker: Career
