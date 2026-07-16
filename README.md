@@ -22,8 +22,7 @@
 - 주문형 데이터 분석팀
     - 통계청 데이터를 활용하여 고객이 필요한 데이터 분석을 요청하면 그에 맞는 데이터 분석결과 제공(R과 SAS 프로그램을 사용하여 cross check)
 
-## :man_office_worker: Career
-### <img width="97" alt="image" src="https://github.com/user-attachments/assets/4cb296a1-c290-4cb8-9153-c59d1149abf6" />  KCB(코리아크레딧뷰로)-4개월
+### <img width="183" height="71" alt="image" src="https://github.com/user-attachments/assets/7e70a1c6-adbe-4b52-8494-12ae853186c8" />  KCB(코리아크레딧뷰로)-4개월
 `2025.07 – 2025.10`  
 
 - IT AI추진단
