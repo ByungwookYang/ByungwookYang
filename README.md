@@ -29,7 +29,7 @@
     - 사내 AI 도입 POC(SQLBot)
  
 ### <img width="176" height="65" alt="image" src="https://github.com/user-attachments/assets/f042e46e-3493-4503-aabe-0ecbfe744532" /> 한국투자저축은행 -7개월
-
+`2025.11 – 2026.05`  
 
     
   
